@@ -4,7 +4,6 @@ export {Login} from "./Pages/Login"
 export {Registration} from "./Pages/Registration"
 export {Edit} from "./Pages/Edit"
 export {AddNew} from "./Pages/AddNew"
-export {AdminLogin} from "./Pages/AdminLogin"
 export {PageNotFound} from "./Pages/PageNotFound"
 
 // COMPONENTS
