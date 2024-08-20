@@ -6,7 +6,6 @@ import {
   Registration,
   AddNew,
   Edit,
-  AdminLogin,
   PageNotFound,
 } from "../imports";
 import { useSelector } from "react-redux";
@@ -23,7 +22,6 @@ export const AllRoutes = () => {
         <Route path="/edit/:id" element={userLogged ? <Edit /> : <Login />} />
         <Route path="/register" element={<Registration />} />
         <Route path="/add" element={<AddNew />} />
-        <Route path="/admin" element={<AdminLogin />} />
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </div>
