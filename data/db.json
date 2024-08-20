@@ -1,0 +1,45 @@
+{
+  "courses": [
+    {
+      "name": "Testing",
+      "description": "Testing",
+      "duration": "testing",
+      "instructor": "testing",
+      "id": 1
+    },
+    {
+      "name": "Testing",
+      "description": "h",
+      "duration": "bsh",
+      "instructor": "hhkjk",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "bilalshahid1890@gmail.com",
+      "password": "$2a$10$r/hCFSr.TVPT4SYZxV9Qm.5WfiA2nLnM6moTuMsCo52akUIwfJDdO",
+      "admin": false,
+      "id": 1
+    },
+    {
+      "email": "bilalshahid180@gmail.com",
+      "password": "$2a$10$r/hCFSr.TVPT4SYZxV9Qm.5WfiA2nLnM6moTuMsCo52akUIwfJDdO",
+      "admin": true,
+      "id": 2
+    },
+    {
+      "email": "bilalshahid1880@gmail.com",
+      "password": "$2a$10$mJwANIPauLdYzF/CgJGnIOUxqWACykmmrZqrlUCZ9Cod..FkPwOO6",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "email": "bilalshahid18760@gmail.com",
+      "password": "$2a$10$Ihqa5dXpxeE1ZSkG6acCC.mHEK7vn6N9wrXeBNG48iMOIyAcNpAsa",
+      "admin": false,
+      "id": 4
+    }
+  ],
+  "admins": []
+}
